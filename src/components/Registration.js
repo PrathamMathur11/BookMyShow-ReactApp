@@ -25,7 +25,7 @@ function Registration() {
       password: passwordd,
     };
     // userDetails.username = 'nik';
-    console.log(userDetails);
+    // console.log(userDetails);
     await axios.post("http://localhost:5000/user-register", userDetails)
       .then((data) => {
         Swal.fire({
@@ -42,8 +42,8 @@ function Registration() {
           showCloseButton: true,
         })
       );
-    const response = await axios.post('https://localhost:5000/user-register', userDetails);
-    console.log(response);
+    // const response = await axios.post('https://localhost:5000/user-register', userDetails);
+    // console.log(response);
   }
 
   return (
