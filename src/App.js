@@ -1,19 +1,15 @@
-import './App.css';
-import Header from './components/Header/Header';
-import SliderImages from './components/SliderImages/SliderImages';
-import CardsSlider from './components/CardsSlider/CardsSlider';
-import Premieres from './components/Premieres';
-import Footer from './components/Footer';
+import "./App.css";
+import Header from "./components/Header/Header";
+import SliderImages from "./components/SliderImages/SliderImages";
+import CardsSlider from "./components/CardsSlider/CardsSlider";
+import Premieres from "./components/Premieres";
+import Footer from "./components/Footer";
 // import AllMovies from './components/AllMovies'
-import AllMoviesFetch from './components/AllMoviesFetch'
+import AllMoviesFetch from "./components/AllMoviesFetch";
 // import SingleMovie from './components/SingleMovie'
-import SingleMovieFetch from './components/SingleMovieFetch'
-import Registration from './components/Registration';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route
-} from "react-router-dom";
+import SingleMovieFetch from "./components/SingleMovieFetch";
+import Registration from "./components/Registration";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -27,7 +23,9 @@ function App() {
             <Premieres />
           </Route>
           <Route exact path="/movies">
+            <SliderImages />
             <AllMoviesFetch />
+            <CardsSlider />
           </Route>
           <Route exact path="/movies/:movid">
             <SingleMovieFetch />
