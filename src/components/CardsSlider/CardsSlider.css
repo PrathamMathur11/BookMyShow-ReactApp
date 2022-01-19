@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+div.bg-dark.text-white.card,
+div.card-img-overlay,
+img.card-img {
+    border-radius: 8px;
+    /* background: transparent !important;
+    border: none; */
+}
+
+img.card-img:hover,div.bg-dark.text-white.card:hover,
+div.card-img-overlay:hover,.card:hover{
+    width: 220px !important;
+    min-height: 300px !important;
+    cursor: pointer;
+    /* font-style: italic; */
+    /* font-size: 15px; */
+    /* color: #01e1f1; */
+}
+
+/* .card.zero:hover{
+    color: red !important;
+    font-size: 10px !important;
+    font-style: normal !important;
+} */
+
+h2 {
+  word-break: "break-word";
+  color: "rgb(51, 51, 51)";
+  font-family: "Roboto";
+  font-size: "24px";
+  font-weight: "700";
+  line-height: "1.17";
+}
+
+@media(max-width:500px){
+    * {
+        font-size: 8px;
+    }
+    .card{
+        height:250px ;
+    }
+    .card-group{
+        gap: 12px;
+    }
+    .card-body{
+        min-height: 90px;
+    }
+}

@@ -1,0 +1,13 @@
+/* For Mobile devices */
+.C-height{
+ height: 140px ;
+} 
+
+/* for medium & large devices */
+@media(min-width:768px){
+.C-height{
+    margin: -30px 0 !important;
+    cursor: pointer;
+    height: 500px !important;
+}
+}
