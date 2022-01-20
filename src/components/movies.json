@@ -97,5 +97,23 @@
         "detailMore": "2h 43m • Action,Adventure,Thriller • UA • 30 Sep, 2021",
         "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/no-time-to-die-et00110039-29-09-2021-01-44-39.jpg",
         "aboutmovie": "Bond has left active service. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology. Will bond be able to find out what`s it all about? An action-packed thriller awaits you."
+    },
+    {
+        "id":12,
+        "imageurl": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/fast-and-furious-9-et00056556-30-11-2021-11-09-06.jpg",
+        "title": "Fast and Furious 9",
+        "actor": "Vin Diesel",
+        "detailMore": "2h 23m • Action,Adventure,Crime,Thriller • UA • 2 Sep, 2021",
+        "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/fast-and-furious-9-et00056556-30-11-2021-11-09-06.jpg",
+        "aboutmovie": "Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob."
+    },
+    {
+        "id":13,
+        "imageurl": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/dune-et00122526-14-01-2022-11-37-05.jpg",
+        "title": "DUNE",
+        "actor": "Rebecca Ferguson",
+        "detailMore": "2h 35m • Action,Adventure,Drama,Sci-Fi • UA • 22 Oct, 2021",
+        "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/dune-et00122526-14-01-2022-11-37-05.jpg",
+        "aboutmovie": "Feature adaptation of Frank Herbert`s science fiction novel, Dune revolves around Paul Atreides, who leads nomadic tribes in a battle to control the desert planet Arrakis."
     }
 ]
