@@ -13,6 +13,7 @@ div.card-img-overlay:hover,.card:hover{
     width: 220px !important;
     min-height: 300px !important;
     cursor: pointer;
+    z-index: 2;
     /* font-style: italic; */
     /* font-size: 15px; */
     /* color: #01e1f1; */
