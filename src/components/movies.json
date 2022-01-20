@@ -70,5 +70,32 @@
         "detailMore": "2h 59m • Action , Thriller • UA • 17 Dec, 2021",
         "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg",
         "aboutmovie": "Based on the smuggling of red sander trees in Seshachalam forest, Andhra Pradesh, Pushpa tells the story of a lorry driver who is part of the illegal business."
+    },
+    {
+        "id":9,
+        "imageurl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/eternals-et00122524-21-10-2021-11-59-37.jpg",
+        "title": "Eternals",
+        "actor": "Angelina Jolie",
+        "detailMore": "2h 35m • Action,Adventure,Fantasy • UA • 5 Nov, 2021",
+        "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/eternals-et00122524-21-10-2021-11-59-37.jpg",
+        "aboutmovie": "Based on Jack Kirby`s Eternals, Marvel Studios brings yet another thrilling superhero flick with the saga of The Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
+    },
+    {
+        "id":10,
+        "imageurl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sooryavanshi-et00097952-27-10-2021-05-17-20.jpg",
+        "title": "Sooryavanshi",
+        "actor": "Akshay Kumar",
+        "detailMore": "2h 25m • Action,Comedy,Drama • UA • 5 Nov, 2021",
+        "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/sooryavanshi-et00097952-27-10-2021-05-17-20.jpg",
+        "aboutmovie": "Starting off from where Akshay Kumar`s character was introduced in Simmba, Sooryavanshi traces the acts and serious antics of DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India."
+    },
+    {
+        "id":11,
+        "imageurl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/no-time-to-die-et00110039-29-09-2021-01-44-39.jpg",
+        "title": "No Time To Die",
+        "actor": "Daniel Craig",
+        "detailMore": "2h 43m • Action,Adventure,Thriller • UA • 30 Sep, 2021",
+        "backgroundIMG": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/no-time-to-die-et00110039-29-09-2021-01-44-39.jpg",
+        "aboutmovie": "Bond has left active service. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology. Will bond be able to find out what`s it all about? An action-packed thriller awaits you."
     }
 ]
