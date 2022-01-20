@@ -39,6 +39,7 @@ h2 {
     }
     .card{
         height:250px ;
+        z-index: 2;
     }
     .card-group{
         gap: 12px;
