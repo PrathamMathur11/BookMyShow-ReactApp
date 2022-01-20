@@ -45,5 +45,11 @@ h2 {
     }
     .card-body{
         min-height: 90px;
+        display: none;
     }
 }
+
+/* 
+.row{
+    margin-right: calc(var(--bs-gutter-x)*-12) !important;
+} */
