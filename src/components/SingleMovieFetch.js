@@ -34,7 +34,7 @@ function SingleMovieFetch() {
           {singledata.map((mov) => {
             return (
               <Col id={mov._id} key={mov._id} style={{ marginBottom: "2%" }}>
-                <Card class="zero"
+                <Card className="singleMovie"
                   style={{ backgroundColor: "transparent", border: "none" }}
                 >
                   <Row

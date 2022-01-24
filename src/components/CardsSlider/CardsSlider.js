@@ -20,7 +20,7 @@ function CardsSlider() {
             }}
           >
             <Card
-              className="bg-dark text-white "
+              className="bg-dark text-white home "
               style={{
                 maxWidth: "220px",
               }}
@@ -35,7 +35,7 @@ function CardsSlider() {
               </a>
             </Card>
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}
@@ -50,7 +50,7 @@ function CardsSlider() {
               </a>
             </Card>
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}
@@ -65,7 +65,7 @@ function CardsSlider() {
               </a>
             </Card>
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}
@@ -90,7 +90,7 @@ function CardsSlider() {
             }}
           >
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}
@@ -105,7 +105,7 @@ function CardsSlider() {
               </a>
             </Card>
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}
@@ -120,7 +120,7 @@ function CardsSlider() {
               </a>
             </Card>
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}
@@ -135,7 +135,7 @@ function CardsSlider() {
               </a>
             </Card>
             <Card
-              className="bg-dark text-white"
+              className="bg-dark text-white home"
               style={{
                 maxWidth: "220px",
               }}

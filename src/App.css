@@ -12,9 +12,7 @@
     }
 }
 
-.card-img{
-    height: 260px !important;
-}
+
 
 @media (min-width: 992px){
 .col-lg-3 {
@@ -24,9 +22,5 @@
 }
 
 
-/* .bg-dark.text-white.card:hover{
-    color:rgb(255, 0, 0) !important;
-    font-size: 17px;
-    cursor: pointer;
-} */
+
 

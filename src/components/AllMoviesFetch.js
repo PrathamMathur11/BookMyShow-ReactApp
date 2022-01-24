@@ -38,10 +38,10 @@ function AllMoviesFetch() {
               md={4}
               lg={3}
               style={{ marginBottom: "3%" }}
+              className="allMovies"
             >
               <Card
                 onClick={() => (window.location.href = "/movies/" + mov._id)}
-                className=""
                 style={{
                   maxWidth: "200px",
                   cursor: "pointer",

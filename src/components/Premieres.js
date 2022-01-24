@@ -11,7 +11,7 @@ function Premieres() {
             <Carousel indicators={false}>
                 <Carousel.Item>
                     <CardGroup style={{ display: "flex", gap: "20px", justifyContent: "space-evenly" }}>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a119d17ac55880333f02'>
@@ -26,7 +26,7 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a5c0d17ac55880333f03'>
@@ -41,7 +41,7 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a119d17ac55880333f02'>
@@ -56,7 +56,7 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a5c0d17ac55880333f03'>
@@ -76,7 +76,7 @@ function Premieres() {
                 </Carousel.Item>
                 <Carousel.Item>
                     <CardGroup style={{ display: "flex", gap: "20px", justifyContent: "space-evenly" }}>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a5c0d17ac55880333f03'>
@@ -91,7 +91,7 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a119d17ac55880333f02'>
@@ -106,7 +106,7 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a5c0d17ac55880333f03'>
@@ -121,7 +121,7 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-dark text-white" style={{
+                        <Card className="bg-dark text-white home" style={{
                             maxHeight: "450px", maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a119d17ac55880333f02'>
