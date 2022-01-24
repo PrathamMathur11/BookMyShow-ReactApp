@@ -11,8 +11,7 @@ function Premieres() {
             <Carousel indicators={false}>
                 <Carousel.Item>
                     <CardGroup style={{ display: "flex", gap: "20px", justifyContent: "space-evenly" }}>
-                        <Card className="bg-dark text-white home" style={{
-                            maxHeight: "450px", maxWidth: "200px"
+                        <Card className="bg-dark text-white home" style={{ maxWidth: "200px"
                         }}>
                             <a href='/movies/61e5a119d17ac55880333f02'>
                                 <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg" />
