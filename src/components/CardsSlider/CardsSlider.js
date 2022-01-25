@@ -22,7 +22,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home "
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e91c4d2aa40f449466b25b">
@@ -37,7 +37,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e59e60d17ac55880333f01">
@@ -52,7 +52,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e918a42aa40f449466b25a">
@@ -67,7 +67,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e6bce71303590966f571b5">
@@ -92,7 +92,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e6bd241303590966f571b7">
@@ -107,7 +107,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e5a119d17ac55880333f02">
@@ -122,7 +122,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e5a5c0d17ac55880333f03">
@@ -137,7 +137,7 @@ function CardsSlider() {
             <Card
               className="bg-dark text-white home"
               style={{
-                maxWidth: "220px",
+                maxWidth: "220px",maxHeight:"450px"
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e5aa42d17ac55880333f04">

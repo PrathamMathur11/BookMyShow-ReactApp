@@ -51,28 +51,25 @@ function Header() {
               navbarScroll
             >
               <NavDropdown title="nothing more" id="navbarScrollingDropdown">
-                <NavDropdown.Item href="/profile">Profile</NavDropdown.Item>
-                <NavDropdown.Item href="/rewards">Rewards</NavDropdown.Item>
-                <NavDropdown.Item href="/setting">Setting</NavDropdown.Item>
+                <NavDropdown.Item href="/">Profile</NavDropdown.Item>
+                <NavDropdown.Item href="/">Rewards</NavDropdown.Item>
+                <NavDropdown.Item href="/">Setting</NavDropdown.Item>
               </NavDropdown>
               <Button
-              href="/register"
+                href="/register"
                 style={{
-                  color: "rgb(255, 255, 255)",
-                  backgroundColor: "rgb(248, 68, 100)",
-                  fontSize: "12px",
+                  fontSize: "16px",
                   height: "25px",
                   lineHeight: "25px",
                   width: "67px",
                   textAlign: "center",
                   borderRadius: "4px",
-                  border: "1px solid rgb(248, 68, 100)",
                   display: "block",
                   alignSelf: "center",
-                  padding: "0",
+                  padding: "0px",
                 }}
               >
-                Sign in
+               Register
               </Button>
             </Nav>
           </Navbar.Collapse>

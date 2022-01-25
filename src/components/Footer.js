@@ -33,7 +33,7 @@ function Footer() {
           </Col>
           <Col xs={5} style={{ display: "flex", flexDirection: "row-reverse" ,flex: "0 0 auto" ,width: "19.666667%"
  }}>
-            <Button
+            <Button href="/register"
               style={{ backgroundColor: "rgb(236, 94, 113)", border: "none" }}
             >
               Contact Today!

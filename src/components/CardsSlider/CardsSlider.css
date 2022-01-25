@@ -56,13 +56,19 @@ h2 {
     display: none;
   }
 
-  div.bg-dark.text-white.home.card,
+  
   div.bg-dark.text-white.home.card.card-img-overlay,
   img.bg-dark.text-white.home.card.card-img {
     border-radius: 8px;
     height: 144.43px !important;
-    width: 96.29px !important;
+    width: 100px !important;
   }
+
+  div.bg-dark.text-white.home.card{
+    height: 120px !important;
+    width: 220px !important;
+  }
+  
   img.card-img:hover {
     border: 1px solid;
     border-color: transparent;

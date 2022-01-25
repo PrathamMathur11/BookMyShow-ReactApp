@@ -16,14 +16,13 @@
 .container>a {
     padding: 4px;
     cursor: pointer;
-    color: unset;
+    color: white;
     text-decoration: none;
-    opacity: 0.7;
+    opacity: 1;
 }
 
-.container-fluid>a:hover{
-    opacity: 1;
-    color: unset;
+a:hover{
+    color: red !important;
 }
 
 button.btn.btn{
@@ -38,23 +37,23 @@ img{
 
 @media(min-width:768px){
 .carousel-control-prev {
-    left: -17px !important;
+    left: 35px !important;
     border: 1px solid black !important;
-    border-radius: 5% !important;
+    border-radius: 50% !important;
     background: black !important;
     width: 50px !important;
     height: 50px !important;
-    top: 150px !important;
+    top: 185px !important;
 }
 
 .carousel-control-next {
-    right: -17px !important;
+    right: 35px !important;
     border: 1px solid black !important;
-    border-radius: 5% !important;
+    border-radius: 50% !important;
     background: black !important;
     width: 50px !important;
     height: 50px !important;
-    top: 150px !important;
+    top: 185px !important;
 }
 }
 
