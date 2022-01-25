@@ -24,36 +24,3 @@
 a:hover{
     color: red !important;
 }
-
-button.btn.btn{
-    position: relative;
-    left: 10px;
-    background-color: white;
-}
-
-img{
-    vertical-align: baseline !important;
-}
-
-@media(min-width:768px){
-.carousel-control-prev {
-    left: 35px !important;
-    border: 1px solid black !important;
-    border-radius: 50% !important;
-    background: black !important;
-    width: 50px !important;
-    height: 50px !important;
-    top: 185px !important;
-}
-
-.carousel-control-next {
-    right: 35px !important;
-    border: 1px solid black !important;
-    border-radius: 50% !important;
-    background: black !important;
-    width: 50px !important;
-    height: 50px !important;
-    top: 185px !important;
-}
-}
-
