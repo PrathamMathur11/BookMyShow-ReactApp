@@ -47,9 +47,12 @@ function Footer() {
             padding: "3%",
           }}
         >
-          <Col>Col1</Col>
-          <Col>Col2</Col>
-          <Col>Col3</Col>
+          <Col><a>
+          Developed using</a></Col>
+          <Col><a>
+          ReactJS and NodeJS</a></Col>
+          <Col><a href="https://github.com/PrathamMathur11/BookMyShow-NodeJs-Express" style={{color:"unset",textDecoration:"none"}}>
+          for Backend Repository </a></Col>
         </Row>
       </Container>
     </div>
