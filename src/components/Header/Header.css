@@ -21,6 +21,6 @@
     opacity: 1;
 }
 
-a:hover{
+.container>a:hover{
     color: red !important;
 }

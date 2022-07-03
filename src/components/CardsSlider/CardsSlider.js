@@ -111,7 +111,7 @@ function CardsSlider() {
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e5a119d17ac55880333f02">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/spider-man-no-way-home-et00310790-12-04-2022-11-03-45.jpg" />
 
                 <Card.Body>
                   <Card.Title>Spider-Man No Way Home</Card.Title>
@@ -126,7 +126,7 @@ function CardsSlider() {
               }}
             >
               <a style={{color:"unset",textDecoration:"none"}} href="/movies/61e5a5c0d17ac55880333f03">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-matrix-resurrections-et00133391-24-11-2021-12-59-51.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-17-03-2022-12-14-17.jpg" />
 
                 <Card.Body>
                   <Card.Title>Matrix Resurrections</Card.Title>
