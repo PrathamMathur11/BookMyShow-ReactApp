@@ -37,7 +37,7 @@ function Premieres() {
               style={{ maxWidth: "200px" }}
             >
               <a href="/movies/61e5a119d17ac55880333f02">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/spider-man-no-way-home-et00310790-12-04-2022-11-03-45.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>Spider-Man</Card.Title>
@@ -52,7 +52,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a5c0d17ac55880333f03">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-21-01-2022-12-53-02.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-17-03-2022-12-14-17.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>The Matrix</Card.Title>
@@ -67,7 +67,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a119d17ac55880333f02">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/spider-man-no-way-home-et00310790-12-04-2022-11-03-45.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>Spider-Man</Card.Title>
@@ -82,7 +82,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a5c0d17ac55880333f03">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-21-01-2022-12-53-02.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-17-03-2022-12-14-17.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>The Matrix</Card.Title>
@@ -108,7 +108,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a5c0d17ac55880333f03">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-21-01-2022-12-53-02.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-17-03-2022-12-14-17.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>The Matrix</Card.Title>
@@ -123,7 +123,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a119d17ac55880333f02">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/spider-man-no-way-home-et00310790-12-04-2022-11-03-45.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>Spider-Man</Card.Title>
@@ -138,7 +138,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a5c0d17ac55880333f03">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-21-01-2022-12-53-02.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-matrix-resurrections-et00133391-17-03-2022-12-14-17.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>The Matrix</Card.Title>
@@ -153,7 +153,7 @@ function Premieres() {
               }}
             >
               <a href="/movies/61e5a119d17ac55880333f02">
-                <Card.Img src="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg" />
+                <Card.Img src="https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/spider-man-no-way-home-et00310790-12-04-2022-11-03-45.jpg" />
               </a>
               <Card.Body>
                 <Card.Title>Spider-Man</Card.Title>
