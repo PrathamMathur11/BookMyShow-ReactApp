@@ -10,7 +10,7 @@ function AllMoviesFetch() {
 
   useEffect(async () => {
     try {
-      const response = await axios.get("https://bms-back-end.herokuapp.com/movies");
+      const response = await axios.get("https://bms-back-end.onrender.com/movies");
       console.log(response);
       setData(response.data);
     } catch (error) {
